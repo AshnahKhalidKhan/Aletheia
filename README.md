@@ -2,7 +2,7 @@
 _Real voices. Honest insights. Responsible AI._
 
 **Where candor meets courtesy.**  
-Aletheia is a review app targeted towards college and university students, dedicated to quick, clear, honest and respectful professor/course feedback. Its unique feature is its responsible AI moderation, which ensures that student reviews are candid, courteous, and free from offensive and excessively harsh language.
+Think of it like if Trustpilot met college campuses. Aletheia is a review app targeted towards college and university students, dedicated to quick, clear, honest and respectful professor/course feedback. Its unique feature is its responsible AI moderation, which ensures that student reviews are candid, courteous, and free from offensive and excessively harsh language.
 
 #### Anything beyond this point, you don't need to read in case you don't want to know how I did what I did.
 - After the atrocity called Google-XYZ, I have decided to comment out these notes that I keep for myself because hey, no one else needs to know if they don't want to learn and just judge me for how I learn things. Badtameez log. Khair, keeping all this uncommented for now because no one is keeping tabs on me before this repository goes live.
